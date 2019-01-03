@@ -1,7 +1,0 @@
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\bin\Debug\Pre-emptive SJF Scheduling.exe.config
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\bin\Debug\Pre-emptive SJF Scheduling.exe
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\bin\Debug\Pre-emptive SJF Scheduling.pdb
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\obj\Debug\Pre-emptive SJF Scheduling.csprojResolveAssemblyReference.cache
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\obj\Debug\Pre-emptive SJF Scheduling.csproj.CoreCompileInputs.cache
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\obj\Debug\Pre-emptive SJF Scheduling.exe
-C:\Users\Serkan\source\repos\Pre-emptive SJF Scheduling\Pre-emptive SJF Scheduling\obj\Debug\Pre-emptive SJF Scheduling.pdb
